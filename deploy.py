@@ -1,3 +1,3 @@
-def pram (lr = .01):
+def pram (lr = .001):
     print(lr)
 print('hello world')
