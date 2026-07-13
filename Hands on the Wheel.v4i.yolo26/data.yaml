@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Hands-on-the-Wheel']
+
+roboflow:
+  workspace: kyrolless-workspace-0kssa
+  project: hands-on-the-wheel
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/kyrolless-workspace-0kssa/hands-on-the-wheel/dataset/4
